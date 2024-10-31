@@ -1,68 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/api-gateway" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/api-gateway" />
+            <option value="$PROJECT_DIR$/services/api-gateway" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/config-server" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/config-server" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/config-server" />
+            <option value="$PROJECT_DIR$/services/config-server" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/discovery" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/discovery" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/discovery" />
+            <option value="$PROJECT_DIR$/services/discovery" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/finance" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/finance" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/finance" />
+            <option value="$PROJECT_DIR$/services/finance" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/notification" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/notification" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/services/notification" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/open-api" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/open-api" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/open-api" />
+            <option value="$PROJECT_DIR$/services/open-api" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/reports" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/reports" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/reports" />
+            <option value="$PROJECT_DIR$/services/reports" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/users" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/users" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/users" />
+            <option value="$PROJECT_DIR$/services/users" />
           </set>
         </option>
       </GradleProjectSettings>

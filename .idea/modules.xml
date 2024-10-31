@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.financely.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.financely.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.financely.open-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.financely.open-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.financely.users.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.financely.users.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/finance.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/financely-project.iml" filepath="$PROJECT_DIR$/.idea/financely-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reports.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reports.main.iml" />
     </modules>
   </component>
 </project>
